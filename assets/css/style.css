@@ -1,0 +1,23 @@
+
+
+.container {
+    width : 800px;
+    height: 533px;
+    margin: 50px auto auto auto;
+    border : 1px solid black;
+    background-size : cover;
+}
+
+.icons {
+    display : flex;
+    align-items : center;
+    justify-content: space-between;
+    margin: 216px 20px;
+    color : white
+}
+
+.left, .right {
+    color: white;
+    border : 1px solid white;
+    border-radius: 50%;
+}
